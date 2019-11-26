@@ -1,6 +1,6 @@
 {
-  "name": "bara-react",
-  "version": "0.1.0",
+  "name": "@barajs/react",
+  "version": "0.0.0-development",
   "private": true,
   "dependencies": {
     "@types/jest": "24.0.23",
